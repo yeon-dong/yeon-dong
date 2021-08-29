@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeon-dong&count_bg=%23FF0000&title_bg=%230015FF&icon=&icon_color=%23CB9F00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# I wanna be Hell Chang.
+# I wanna be Hell Chang. (나는 헬창이 되고 싶다.)
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
