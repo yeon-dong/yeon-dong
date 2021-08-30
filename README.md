@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO I'M Yeon-Dong!!!
 
  <div align=center>
 	
@@ -8,7 +8,7 @@
 
 # I wanna be Hell Chang. (나는 헬창이 되고 싶다.)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.instagram.com/east_yeon_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/east_yeon_/"/></a>
+<img src="https://img.shields.io/badge/Adidas-000000?style=flat-square&logo=Adidas&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.instagram.com/east_yeon_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/east_yeon_/"/></a>
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
