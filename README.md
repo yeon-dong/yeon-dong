@@ -29,4 +29,4 @@
 - 💬 Ask me about Web service 
 - 📫 How to reach me: Instagram 
 - 😄 Pronouns: 마음을 읽는 개발자
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: .....
