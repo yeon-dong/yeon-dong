@@ -94,7 +94,9 @@
 # I wanna be Hell Chang. (나는 헬창이 되고 싶다.)
 
 <!--stats-->
+
 ![YeonDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=synthwave) 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=ambient_gradient&count_private=true" width=56% />
 </a>
