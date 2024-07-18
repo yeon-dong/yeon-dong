@@ -8,7 +8,7 @@
 
 <div align="left">
  
-## 💻 DEV's log 💻
+## 💻 DEV 💻
 
  
 ## 📞 Contact 📞
@@ -93,11 +93,8 @@
 
 # I wanna be Hell Chang. (나는 헬창이 되고 싶다.)
 
- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.instagram.com/east_yeon_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/east_yeon_/"/></a>
 <!--stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-dong&layout=donut&show_icons=true&theme=ambient_gradient&count_private=true" width=38% />
-</a>    
+![YeonDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=synthwave) 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=ambient_gradient&count_private=true" width=56% />
 </a>
