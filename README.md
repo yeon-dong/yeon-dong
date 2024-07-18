@@ -6,6 +6,8 @@
 
 <br>
 
+<div align="left">
+ 
 ## 💻 DEV's log 💻
 
  
