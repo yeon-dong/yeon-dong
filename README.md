@@ -85,7 +85,6 @@
         <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
     
     </div>
-</div>
 <br>
 
 
