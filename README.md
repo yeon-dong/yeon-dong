@@ -14,9 +14,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeon-dong&count_bg=%23FF0000&title_bg=%230015FF&icon=&icon_color=%23CB9F00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
   </div>
-
-[![Yeondong's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
- 
 <br>
 
 ## 💻 DEV's log 💻
@@ -30,7 +27,7 @@
     <a href="https://open.kakao.com/o/sGFzzbsf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-    <a href="https://www.instagram.com/kwonbi_">
+    <a href="https://www.instagram.com/east-yeon">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 
@@ -68,16 +65,13 @@
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
         <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
         <img src="https://img.shields.io/badge/DBeaver-4D4D4D?style=flat-square&logo=dbeaver&logoColor=white">
     </div>
@@ -99,7 +93,6 @@
     <p><strong>Communication</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/StarUML-7D57C1?style=flat-square&logo=staruml&logoColor=white">
     </div>
 </div><br>
 </div>
@@ -109,7 +102,7 @@
 
 # I wanna be Hell Chang. (나는 헬창이 되고 싶다.)
 
-<img src="https://img.shields.io/badge/Adidas-000000?style=flat-square&logo=Adidas&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.instagram.com/east_yeon_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/east_yeon_/"/></a>
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.instagram.com/east_yeon_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/east_yeon_/"/></a>
 <!--stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-dong&layout=donut&show_icons=true&theme=ambient_gradient&count_private=true" width=38% />
