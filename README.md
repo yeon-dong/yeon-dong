@@ -94,11 +94,15 @@
 # I wanna be Hell Chang. (나는 헬창이 되고 싶다.)
 
 <!--stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=ambient_gradient&count_private=true" width=56% />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=ambient_gradient&count_private=true" width=56% />
+    </a>
+    
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width=56% />
+    </a>
+</div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeon-dong&theme=ambient_gradient" width=94%/>
