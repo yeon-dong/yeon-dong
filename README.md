@@ -95,7 +95,7 @@
 
 <!--stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=ambient_gradient&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=compact&count_private=true" width=56% />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
