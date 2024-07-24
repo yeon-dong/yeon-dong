@@ -9,7 +9,7 @@
 <div align="left">
  
 ## 💻 DEV 💻
-
+Frontend
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
