@@ -100,7 +100,7 @@ Tstory
       <img src="https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=ambient_gradient&count_private=true" width=56% />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width=38% />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-dong&layout=compact" width=38% />
     </a>
 </div>
 
