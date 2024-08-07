@@ -112,7 +112,7 @@ Tstory
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on making services
 - 🤔 I’m looking for help with React
-- 💬 Ask me about Web service 
+- 💬 Ask me about Web service
 - 📫 How to reach me: Instagram 
 - 😄 Pronouns: 마음을 읽는 개발자
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
