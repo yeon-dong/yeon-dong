@@ -8,8 +8,9 @@
 
 <div align="left">
  
-## 💻 DEV 💻
-Frontend
+## 💻 Notion Resume 💻
+Frontend Developer
+https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -46,9 +47,9 @@ Frontend
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+<!--         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  -->
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<!--         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> -->
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
@@ -89,10 +90,6 @@ Frontend
 <br>
 
 
-
-
-# I wanna be Hell Chang. (나는 헬창이 되고 싶다.)
-
 <!--stats-->
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -107,11 +104,4 @@ Frontend
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeon-dong&theme=ambient_gradient" width=94%/>
 </a>
 
-- 🔭 I’m currently working on Soongsil University 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on making services
-- 🤔 I’m looking for help with React
-- 💬 Ask me about Web service
-- 📫 How to reach me: Instagram 
-- 😄 Pronouns: 마음을 읽는 개발자
-- ⚡ Fun fact: .....
+# I wanna be Hell Chang. (나는 헬창이 되고 싶다.)
