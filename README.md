@@ -54,16 +54,15 @@ https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-    </div>
+<!--         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<!--         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">  -->
+    </div> -->
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
         <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
-        <img src="https://img.shields.io/badge/DBeaver-4D4D4D?style=flat-square&logo=dbeaver&logoColor=white">
     </div>
     <!-- Framework -->
     <p><strong>Framework</strong></p>
@@ -103,5 +102,5 @@ https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeon-dong&theme=ambient_gradient" width=94%/>
 </a>
+<!--# I wanna be Hell Chang. (나는 헬창이 되고 싶다.)-->
 
-# I wanna be Hell Chang. (나는 헬창이 되고 싶다.)
