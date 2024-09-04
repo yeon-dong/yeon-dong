@@ -10,6 +10,7 @@
  
 ## 💻 Notion Resume 💻
 Frontend Developer
+<br>
 https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
  
 ## 📞 Contact 📞
@@ -32,7 +33,13 @@ https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+        <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white">
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
         <img src="https://img.shields.io/badge/Ajax-00758F?style=flat-square&logo=ajax&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -42,6 +49,9 @@ https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+             <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+          <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     </div>
     <!-- Database -->
@@ -63,6 +73,9 @@ https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
         <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+        <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white">
+     <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
     </div>
     <!-- Framework -->
     <p><strong>Framework</strong></p>
@@ -70,7 +83,6 @@ https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
     <!-- Version Control -->
     <p><strong>Version Control</strong></p>
