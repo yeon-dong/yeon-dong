@@ -10,7 +10,6 @@
  
 ## 💻 Notion Resume 💻
 ### Frontend Developer
-<br>
 https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
  
 ## 📞 Contact 📞
