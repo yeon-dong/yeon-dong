@@ -96,10 +96,8 @@ https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-    </div>
- 
+    </div> 
 <br>
-
 
 <!--stats-->
 <div style="display:flex; flex-direction:row;">
