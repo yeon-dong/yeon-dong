@@ -7,7 +7,6 @@
 <br>
 
 <div align="left">
- 
 ## 💻 Notion Resume 💻
 ### Frontend Developer
 https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
@@ -21,7 +20,8 @@ https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 
-</div><br>
+</div>
+<br>
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
