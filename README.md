@@ -69,6 +69,12 @@ https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
     <div>
      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
     </div>
+<!-- Application -->
+    <p><strong>Application</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+    </div>
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
     <div>
