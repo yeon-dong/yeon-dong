@@ -108,7 +108,7 @@ https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
     </div> 
 <br>
-
+<br>
 <!--stats-->
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
