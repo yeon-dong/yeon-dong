@@ -115,7 +115,6 @@
 <br>
 <br>
 
-
 <!--stats-->
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -126,9 +125,9 @@
     </a>
 </div>
 
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeon-dong&theme=ambient_gradient" width=94%/>
 </a>
+
 
 <!--# I wanna be Hell Chang. (나는 헬창이 되고 싶다.)-->
