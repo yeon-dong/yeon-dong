@@ -93,7 +93,7 @@
      <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
     </div>
     <!-- Data Analysis & AI -->
-    <p><strong>Framework</strong></p>
+    <p><strong>Data Analysis & AI</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
         <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
