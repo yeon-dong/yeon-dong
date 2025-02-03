@@ -96,6 +96,8 @@
     <p><strong>Data Analysis & AI</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+     <img src="https://img.shields.io/badge/Matplotlib-0F5277?style=flat-square&logoColor=white">
+     <img src="https://img.shields.io/badge/Seaborn-6174A1?style=flat-square&logoColor=white">
         <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
     </div>
