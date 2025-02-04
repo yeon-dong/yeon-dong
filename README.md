@@ -45,6 +45,7 @@
         <img src="https://img.shields.io/badge/TanStackQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+     <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
     </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
