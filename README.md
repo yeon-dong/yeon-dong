@@ -46,6 +46,7 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
           <img src="https://img.shields.io/badge/CSS Module-000000?style=flat-square&logo=cssmodules&logoColor=white">
+     <img src="https://img.shields.io/badge/🧁%20Vanilla--extract-F690B3?style=flat-square">
      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
      <img src="https://img.shields.io/badge/MockServiceWorker-FF6A33?style=flat-square&logo=mockserviceworker&logoColor=white">
     </div>
