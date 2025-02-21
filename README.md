@@ -77,6 +77,7 @@
  -->
     <div>
      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+          <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
     </div>
 <!-- Application -->
     <p><strong>Application</strong></p>
