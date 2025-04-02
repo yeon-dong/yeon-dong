@@ -11,7 +11,7 @@
 <div align="left">
  
 ## 💻 Notion Resume 💻
-### Frontend Developer
+### Frontend Developer 🧑‍💻
 <a href="https://crimson-fish-2f4.notion.site/92b51ba9744d44939734de3a1cfebbca?pvs=4"> 📝 Notion Resume Link 📝 </a>
  
 ## 📞 Contact 📞
@@ -143,5 +143,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeon-dong&theme=ambient_gradient" width=94%/>
 </a>
+
+
 
 <!--# I wanna be Hell Chang. (나는 헬창이 되고 싶다.)-->
