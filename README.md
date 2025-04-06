@@ -21,8 +21,10 @@
     </a>&nbsp;
     <a href="https://www.instagram.com/east_yeon_">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
+    </a>&nbsp;
+    <a href="mailto:rchijy@naver.com">
+        <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white">
     </a>
-
 </div>
 <br>
     
