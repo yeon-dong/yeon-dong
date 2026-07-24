@@ -133,19 +133,27 @@
 <br>
 
 <!--stats-->
-<div style="display:flex; flex-direction:row;">
+<!-- <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=yeon-dong&show_icons=true&theme=ambient_gradient&count_private=true" width=56% />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-dong&layout=compact" width=38% />
     </a>
-</div>
+</div> -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeon-dong&theme=ambient_gradient" width=94%/>
 </a>
 
-
+<div style="display: flex; justify-content: center;">
+    <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yeon-dong&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/yeon-dong"
+          width="600"
+          height="300"
+        />
+    </a>
+</div>
 
 <!--# I wanna be Hell Chang. (나는 헬창이 되고 싶다.)-->
