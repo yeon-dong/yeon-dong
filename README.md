@@ -145,15 +145,16 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeon-dong&theme=ambient_gradient" width=94%/>
 </a>
+</div>
 
-<div style="display: flex; justify-content: center;">
-    <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yeon-dong&utm_content=farm">
-        <img
-          src="https://render.gitanimals.org/farms/yeon-dong"
-          width="600"
-          height="300"
-        />
-    </a>
+<div align="center">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yeon-dong&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/yeon-dong"
+      width="600"
+      height="300"
+    />
+  </a>
 </div>
 
 <!--# I wanna be Hell Chang. (나는 헬창이 되고 싶다.)-->
